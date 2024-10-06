@@ -31,7 +31,7 @@ export default function Modal({open, onClose}) {
         <div className='grid grid-cols-1 md:grid-cols-3 gap-1 bg-anti-flash-white md:p-1 md:gap-1'>
           {projects.map((project, index) => {
             return(
-              <div key={index} className='w-full h-full aspect-video md:h-[250px]
+              <div key={index} className='w-full h-full aspect-video md:h-[350px]
                bg-raisin-black text-anti-flash-white flex flex-col gap-2 p-6 md:p-4'>
                   <h1 className='text-lg'>{project.name}</h1>
                   <p className='text-sm flex-1'>{project.description}</p>
