@@ -1,8 +1,17 @@
-# React + Vite
+# React and Tailwind Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Description:
+I developed a **responsive portfolio website** using **React** and **TailwindCSS** that features an interactive design and smooth navigation. The website includes access to a PDF version of my resume, links to my projects, and is optimized for fast loading across all devices. I implemented reusable components to ensure easy updates and maintainability.
 
-Currently, two official plugins are available:
+### Key Points:
+- **Responsive Design**: Works seamlessly on both desktop and mobile devices.
+- **Interactive UI**: Features smooth navigation and user-friendly interactions.
+- **Resume Access**: Includes a downloadable PDF version of my resume.
+- **Project Links**: Direct access to various projects in the portfolio.
+- **Reusable Components**: Enables easy updates and future scalability.
+- **Optimized Performance**: Ensures fast load times and efficient rendering.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tech Stack:
+- **Frontend**: React, TailwindCSS
+- **Other**: JavaScript (ES6+), HTML5, CSS3
+
