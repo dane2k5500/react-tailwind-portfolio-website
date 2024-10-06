@@ -4,10 +4,10 @@ export default function Modal({open, onClose}) {
   if (!open) return null
   const projects = [
     {
-      name: 'adfdafadfd', 
-      link: 'https://www.example.com', 
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt', 
-      github: 'https://www.github.com'
+      name: 'React and Tailwind Portfolio Website', 
+      link: 'https://dane2k5500.github.io/react-tailwind-portfolio-website/', 
+      description: 'I developed a responsive portfolio website using React and TailwindCSS, featuring interactive design and smooth navigation. I included access to a PDF version of my resume and links to various projects. I also implemented reusable components for easy updates and optimized performance for fast loading across devices.', 
+      github: 'https://github.com/dane2k5500/react-tailwind-portfolio-website'
     }, 
     {
       name: 'adfdafadfd', 
