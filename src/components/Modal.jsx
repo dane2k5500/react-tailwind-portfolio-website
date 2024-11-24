@@ -12,7 +12,7 @@ export default function Modal({open, onClose}) {
     {
       name: 'React Image Uploader with Express and Node.js', 
       link: 'https://dane2k5500.github.io/react-image-upload-app/', 
-      description: 'This project is an **image uploading system** built using React on the frontend and Express with Node.js on the backend. It enables users to upload images from their local device and securely store them on the server. Note: Since GitHub does not support server side code (e.g., the Node.js portion of this app), the front end will not work.  However, the frontend and backend code is provided in the repository!', 
+      description: 'This project is an <strong>image uploading system</strong> built using React on the frontend and Express with Node.js on the backend. It enables users to upload images from their local device and securely store them on the server. Note: Since GitHub does not support server side code (e.g., the Node.js portion of this app), the front end will not work.  However, the frontend and backend code is provided in the repository!', 
       github: 'https://github.com/dane2k5500/react-image-upload-app'
     },
     {
