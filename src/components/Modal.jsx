@@ -15,6 +15,12 @@ export default function Modal({open, onClose}) {
       description: 'This project is an **image uploading system** built using React on the frontend and Express with Node.js on the backend. It enables users to upload images from their local device and securely store them on the server. Note: Since GitHub does not support server side code (e.g., the Node.js portion of this app), the front end will not work.  However, the frontend and backend code is provided in the repository!', 
       github: 'https://github.com/dane2k5500/react-image-upload-app'
     },
+    {
+      name: 'Sign Up and Login Form with PHP, MySQL, HTML, CSS, and JavaScript', 
+      link: 'https://dane2k5500.github.io/react-image-upload-app/', 
+      description: 'This project involves creating a **Sign-Up and Login Form** with robust client-side validation, focusing on security, usability, and functionality.  The form handles user registration and authentication while ensuring data integrity and a seamless user experience.', 
+      github: 'https://github.com/dane2k5500/new_signup_form'
+    },
   ]
   return (
     // Modal for online portfolio
