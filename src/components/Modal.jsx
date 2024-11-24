@@ -17,7 +17,7 @@ export default function Modal({open, onClose}) {
     },
     {
       name: 'Sign Up and Login Form with PHP, MySQL, HTML, CSS, and JavaScript', 
-      link: 'https://dane2k5500.github.io/react-image-upload-app/', 
+      link: 'https://signupform.pixelzenithcreations.com/', 
       description: 'This project involves creating a sign-up and login form with robust client-side validation, focusing on security, usability, and functionality.  The form handles user registration and authentication while ensuring data integrity and a seamless user experience.', 
       github: 'https://github.com/dane2k5500/new_signup_form'
     },
